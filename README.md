@@ -1,2 +1,2 @@
 # coding_challenges
-coding challenges of different programming languages
+coding challenges for practice on c++
