@@ -1,0 +1,6 @@
+# Ensure all challenge languages are counted
+*.py linguist-detectable=true
+*.cpp linguist-detectable=true
+*.js linguist-detectable=true
+*.java linguist-detectable=true
+*.html linguist-detectable=true
